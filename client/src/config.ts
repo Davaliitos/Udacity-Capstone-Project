@@ -6,7 +6,7 @@ var callback = '';
 if(process.env.NODE_ENV !== 'production'){
   callback = 'http://localhost:3000/callback';
 } else{
-  callback = 'http://https://master.d1zend7ixov8dm.amplifyapp.com/callback'
+  callback = 'https://master.d1zend7ixov8dm.amplifyapp.com/callback'
 }
 
 export const authConfig = {
