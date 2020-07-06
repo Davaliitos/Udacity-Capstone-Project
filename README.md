@@ -2,6 +2,8 @@
 
 This project is a simple application using AWS Lambda and Serverless framework
 
+You can test it on https://master.d1zend7ixov8dm.amplifyapp.com
+
 # Functionality of the application
 
 This application will allow creating/removing/updating/fetching Game Items. Each Game item can optionally have an attachment image. Each user only has access to Game Items that he/she has created.
