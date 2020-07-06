@@ -2,6 +2,7 @@
 
 This project is a simple application using AWS Lambda and Serverless framework
 
+//Auth0 redirection errors. Please test in on local
 You can test it on https://master.d1zend7ixov8dm.amplifyapp.com
 
 # Functionality of the application
